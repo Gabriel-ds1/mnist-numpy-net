@@ -34,7 +34,7 @@ One of the unique aspects of this project is the design and testing of completel
 
 > 💥 In benchmark testing, `gravity_x` + **Adamax** achieved **the highest test accuracy** outperforming all standard activations.
 
-![Custom Activation Functions by: Gabriel Souza](https://imgur.com/a/I4nlUcm)
+![Custom Activation Functions by: Gabriel Souza](https://i.imgur.com/SG3X9z4.png)
 
 ---
 
@@ -88,7 +88,7 @@ Requires only:
 
 ## 🖥️ GUI Demo (Tkinter)
 
-![GUI Classification Example](https://imgur.com/a/nOcYcQI)
+![GUI Classification Example](https://i.imgur.com/fqWbzYo.gif)
 
 Using the included `gui.py`, you can load any trained model and draw directly in a canvas interface:
 
